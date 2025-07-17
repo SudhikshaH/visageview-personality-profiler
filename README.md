@@ -47,3 +47,5 @@ pip install streamlit deepface pillow opencv-python
 
 ## Author
 SUDHIKSHA H
+
+[🔗 LinkedIn](https://www.linkedin.com/in/sudhiksha-h)
