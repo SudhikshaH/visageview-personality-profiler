@@ -1,0 +1,61 @@
+[AgeGroup]
+Child: Bursting with fresh curiosity and boundless wonder.|A mind that’s always asking 'why?'|Sees the world as endless possibility.|Radiates that genuine spark of discovery.|Always eager to learn one more thing.|Moves through moments with open-hearted excitement.|Still seeing life as one big adventure.|Walks in with fresh eyes and an open heart.|Finds joy in the small, unexpected everyday.|Loves when new colors appear in the routine.
+
+Teen: Restless in the best way, hungry for identity.|Feeling everything, creating meaning from chaos.|Curiosity drives your everyday.|A spirited soul learning by doing.|Gravitates toward expression and experimentation.|Constantly testing boundaries and growing.|Living in vibrant motion, figuring the map as you go.|A sense of becoming overtakes your stride.|Riding waves of highs and lows gracefully.|Building your world with insight and impulse.
+
+Young Adult: Ambition and exploration dance in your steps.|Collecting experiences more than things.|A balanced mix of hope and reality.|Leaning into growth with practical boldness.|Building horizons with guided enthusiasm.|Valuing learning as much as doing.|Turning dreams into everyday routines.|Shaping your future while staying open.|Carrying optimism with a grounded gaze.|Energy that speaks of beginnings guided by insight.
+
+Adult: Carrying experience with ease.|Wisdom baked into everyday choices.|Moves with ease, knowing what matters.|Quiet confidence anchors your presence.|Choices feel meaningful and intentional.|Grounded in past lessons, ready for today.|Experience has shaped a calm core.|Actions speak volumes without urgency.|Comfortable in the skin that tells a story.|Leads from experience, not from sound.
+
+Senior: Radiates presence that’s seen seasons.|Gratitude laced through every decision.|Moves with ease shaped by decades.|Wisdom speaks in the quiet gestures.|Life’s stories visible in every stride.|Calm authority that needs no words.|Depth that comes from lived time.|Your perspective feels wide and welcoming.|A heart seasoned by time, open and warm.|Your inner compass is steady and kind.
+
+[Generation]
+Gen Alpha: Born into constant connection, naturally tech-curious.|Fresh perspective meets digital comfort.|Youthful outlook fused with global access.|Never remembers a world without screens.|Explores digitally before physically.|Playful spirit with encyclopedic curiosity.|Shifts between virtual and real with ease.|Always hungry for what tomorrow brings.|Comfortable building new worlds and worlds online.|Learns digitally, thinks fluidly.
+
+Gen Z: Quietly confident, unapologetically different.|Shaped by connection and complexity.|Understand nuance, work and meaning woven together.|Brave enough to ask questions, thoughtful enough to listen.|Lives in both real and digital worlds equally.|Values fairness and sees what's hidden.|Owns individuality without needing attention.|Thinks globally, acts personally.|Aware of consequence but hopeful in action.|Balances realism with dream.
+
+Millennial: Practical idealist with big-picture heart.|Grew up learning by screen and by foot.|Dreamers stepping into systems to change them.|Balancing purpose with pragmatism.|Voices counted, action meaningful.|Knows collaboration beats isolation.|Comfortable starts and cautious progress.|Believes in both potential and path.|Open-hearted, outcome-aware.
+
+Gen X: Independent by design, adaptable by necessity.|Sees both sides before committing.|Holds space quietly and questions deeply.|Works to live, not lives to work.|Builds balance from contradiction.|Introverted confidence speaks volumes.|Prefers working smart over working hard.|Knows authority but trusts self.
+
+Baby Boomer: Guided by tradition but open to change.|Knows value of hard-won routines.|Rooted in history, reaching for future.|Stable presence shaped by shared memories.|Actions born from decades of understanding.|Respectful yet still willing to explore.|Comfortable leading by experience.
+
+Silent Generation: Quiet strength, seen worlds shift.|Values rooted in persistence and patience.|Speaks softly, carries deep insight.|Respectful behavior with firm beliefs.|Anchored in principles, open in character.|Lives with generosity earned over time.|Depth of life stories in every nod.
+
+[Zodiac]
+Aries: Bold in approach, brave where it matters.|Steps forward rather than waits.|Your fire fuels progress in rooms.|Initiative is your unspoken signature.|Risk is a word you rewrite into action.|Confidence flickers subtly, lighting others.|A pioneer’s energy hums gently.
+
+Taurus: Calm strength that endures.|Steadfast steps, reliable through shifts.|Anchored spirit rarely shaken.|Comfort in loyalty shows gently.|Steady presence feels like home.|Quiet determination holds firm.|Belief in quality over quantity.
+
+Gemini: Curiosity drives every glance.|Conversational energy hums lightly.|Mind moves fast, catching small wonders.|Adapts fluidly to change and chance.|Versatile spirit meets connection.|Your adaptability is strangely calming.|Quick-witted and wandering.
+
+Cancer: Caring warmth radiates softly.|Protective heart surrounding you.|Your presence feels like a safe harbor.|Emotion deep, but expression gentle.|Nurturing energy hovers around you.|Quiet empathy supports others.
+
+Leo: Warmth without words, generosity unspoken.|Magnetism that draws without asking.|Confident presence feels easy on the eyes.|Leadership in subtle posture.|Strength softened by kindness.|Radiates charisma naturally.
+
+Virgo: Purpose in small details.|Quiet perfection shows itself in care.|Observation and intent weave together.|Analytical yet gentle presence.|Your precision comforts others.|Mindful steps, patient gestures.
+
+Libra: Harmony in the spaces you inhabit.|Balanced energy resonates calmly.|Diplomatic posture welcomes others.|Beauty woven into everyday movement.|Kindness in symmetry and service.|Your presence feels softly fair.
+
+Scorpio: Depth lives behind your gaze.|Intuition hums quietly beneath.|Strength cloaked in measured calm.|Intensity without proclamation.|Your insight cuts through noise.|Power that whispers.
+
+Sagittarius: Explorer spirit hums within you.|Adventure pulses beneath stillness.|Curiosity tastes of real freedom.|Optimism hidden lightly in your stance.|Your openness feels inviting.|Discoverer’s heart steps softly.
+
+Capricorn: Purposeful steps, quietly ambitious.|Your drive moves in measured pace.|Self-control radiates steadily.|Focused energy without hurry.|Strength built into your posture.|Determined spirit aligned.
+
+Aquarius: Independent mind gently at work.|Vision bubbles beneath calm.|Creative ideas find their way quietly.|Uniqueness breathes through your presence.|Your perspective shifts the air softly.|Future ideas already stirring.
+
+Pisces: Dreamer’s eyes see beyond today.|Compassion hums in your gestures.|Gentle creativity flows softly.|Empathy lines your expressions.|Your kindness shows in quiet acts.|Imaginative calm resides within.
+
+[Emotion]
+happy: Warmth spreads softly from your smile.|Joy lingers in your eyes.|Calm optimism rides with you.|Light radiates quietly.|Your presence feels uplifting.|Cheer without noise.
+
+sad: Depth carries in your silence.|Soft empathy lives in your gaze.|Quiet contemplation hums beneath.|Strength reveals in restraint.|Your introspection is quietly intense.|Emotion felt beyond words.
+
+angry: Fierce loyalty hides behind your calm.|Intensity tingles around your presence.|Strength held in control.|Fire under the surface.|Passion anchored in purpose.|Bold resolve speaks softly.
+
+neutral: Equanimity anchors your presence.|Steady calm hums around you.|Balanced gaze draws trust.|Nothing feels forced.|Quiet authenticity shows up.
+
+surprise: Curiosity sparks in your features.|Bright questions line your expression.|Your presence feels lively.|Wonder steps quietly beside you.|Energy feels spontaneous.
+
+fear: Caution breathes under calm exterior.|Sensitivity shows in your pauses.|Depth meets care in your posture.|Alert kindness hums softly.|Your awareness feels refined.
