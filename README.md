@@ -32,12 +32,11 @@ Project Title - VisageView: A Streamlit App for Visual Personality Profiling Usi
 - Add multiple trait themes (career-focused, friendship etc.)
 
 **Tech Stack**
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Framework-red?logo=streamlit)](https://streamlit.io/)
-[![DeepFace](https://img.shields.io/badge/DeepFace-GitHub-blue?logo=github)](https://github.com/serengil/deepface)
-[![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-blueviolet)](https://pillow.readthedocs.io/en/stable/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-critical?logo=opencv)](https://opencv.org/)
-[![Textwrap](https://img.shields.io/badge/Textwrap-Built--in-lightgrey)](https://docs.python.org/3/library/textwrap.html)
+Streamlit[![Streamlit](https://img.shields.io/badge/Streamlit-Framework-red?logo=streamlit)](https://streamlit.io/)
+DeepFace[![DeepFace](https://img.shields.io/badge/DeepFace-GitHub-blue?logo=github)](https://github.com/serengil/deepface)
+Pillow[![Pillow](https://img.shields.io/badge/Pillow-Image%20Processing-blueviolet)](https://pillow.readthedocs.io/en/stable/)
+OpenCV[![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-critical?logo=opencv)](https://opencv.org/)
+TextWrap[![Textwrap](https://img.shields.io/badge/Textwrap-Built--in-lightgrey)](https://docs.python.org/3/library/textwrap.html)
 
 **Installation Dependencies**
 pip install streamlit deepface pillow opencv-python
