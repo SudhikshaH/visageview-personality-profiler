@@ -44,7 +44,7 @@ Install all required dependencies:
 
 ```bash
 pip install streamlit deepface pillow opencv-python
-
+```
 ## Author
 SUDHIKSHA H
 
